@@ -1,0 +1,21 @@
+{
+  "name": "shopbot",
+  "version": "1.0.0",
+  "description": "Order your discord bot",
+  "main": "index.js",
+  "keywords": [
+    "odar",
+    "bot",
+    "discord",
+    "discordbot",
+    "shop",
+    "order"
+  ],
+  "author": "Odar",
+  "license": "ISC",
+  "dependencies": {
+    "dblapi.js": "^2.0.1",
+    "discord.js": "^11.3.2",
+    "fs": "0.0.1-security"
+  }
+}
