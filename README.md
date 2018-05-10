@@ -1,22 +1,27 @@
-# ShopBot by [Odar](https://www.odar.xyz)
-----
-## What is [ShopBot](https://discordapp.com/oauth2/authorize?client_id=442410451121209365&permissions=604502081&scope=bot)?
-see [Wikipedia](http://en.wikipedia.org/wiki/Markdown)
+Welcome to Glitch
+=================
 
-> ShopBot is simple discord bot from where you can order your own discord bot with cheap prices.
+Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-----
-## Commands
-    ]help - Displays the help commands
-    ]invite - Gives you invite for the bot
-    ]rate - Rate our service
-    ]prices - Displays the prices for bots
-    ]buy - Shows you waht you can buy
-    ]order - Order your bot
-    ]donate - Donate us
+**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
 
-----
-## Support
+Find out more [about Glitch](https://glitch.com/about).
 
-* [ShopBot](https://discord.gg/AhgGbR8) Discord
-* [Odar Army](https://discord.gg/zvvasbc) Discord
+
+Your Project
+------------
+
+On the front-end,
+- edit `public/client.js`, `public/style.css` and `views/index.html`
+- drag in `assets`, like images or music, to add them to your project
+
+On the back-end,
+- your app starts at `server.js`
+- add frameworks and packages in `package.json`
+- safely store app secrets in `.env` (nobody can see this but you and people you invite)
+
+
+Made by [Fog Creek](https://fogcreek.com/)
+-------------------
+
+\ ゜o゜)ノ
