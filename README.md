@@ -1,3 +1,5 @@
+# DEAD PROJECT
+
 # ShopBot by [Odar](https://www.odar.xyz)
 ----
 ## What is [ShopBot](https://discordapp.com/oauth2/authorize?client_id=442410451121209365&permissions=604502081&scope=bot)?
